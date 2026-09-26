@@ -1,0 +1,589 @@
+interaction_id,customer_id,channel,sentiment,interaction_date,transcript
+INT00001,CUST0001,Email,neutral,2026-03-23,"Customer: I have a question about what my policy actually covers.
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00002,CUST0001,Branch,negative,2025-12-05,"Customer: I feel like I'm being ignored every time I raise this issue.
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00003,CUST0001,Call Center,neutral,2025-11-30,"Customer: I have a question about what my policy actually covers.
+Agent: I understand, let me look into this and get back to you."
+INT00004,CUST0002,Branch,negative,2026-08-02,"Customer: I want to understand why my premium went up without any notice.
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00005,CUST0003,Email,positive,2026-03-24,"Customer: My claim was approved fast and I wanted to say I appreciated that.
+Agent: I've updated your details, is there anything else I can help with?"
+INT00006,CUST0003,Call Center,neutral,2026-01-02,"Customer: Just calling to confirm my last payment went through.
+Agent: Thank you for your patience, we'll resolve this within 48 hours."
+INT00007,CUST0003,Email,neutral,2025-01-11,"Customer: Hi, I wanted to check the status of my recent claim submission.
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00008,CUST0004,Email,neutral,2026-01-19,"Customer: I have a question about what my policy actually covers.
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00009,CUST0004,Call Center,positive,2025-06-07,"Customer: I recommended your services to a friend and wanted to ask about referral benefits.
+Agent: I've updated your details, is there anything else I can help with?"
+INT00010,CUST0005,Branch,neutral,2026-08-25,"Customer: Just calling to confirm my last payment went through.
+Agent: I understand, let me look into this and get back to you."
+INT00011,CUST0005,Branch,neutral,2025-11-22,"Customer: Hi, I wanted to check the status of my recent claim submission.
+Agent: Thank you for your patience, we'll resolve this within 48 hours."
+INT00012,CUST0005,Email,positive,2025-04-24,"Customer: Everything has been smooth with my policy, just checking on a few details.
+Agent: Thank you for your patience, we'll resolve this within 48 hours."
+INT00013,CUST0005,Branch,positive,2026-06-06,"Customer: I'm happy with the service so far and wanted to ask about upgrading my plan.
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00014,CUST0006,Email,positive,2025-08-01,"Customer: I'm happy with the service so far and wanted to ask about upgrading my plan.
+Agent: I've updated your details, is there anything else I can help with?"
+INT00015,CUST0006,Email,neutral,2026-08-02,"Customer: Hi, I wanted to check the status of my recent claim submission.
+Agent: Thank you for your patience, we'll resolve this within 48 hours."
+INT00016,CUST0006,Email,positive,2025-02-13,"Customer: I recommended your services to a friend and wanted to ask about referral benefits.
+Agent: I understand, let me look into this and get back to you."
+INT00017,CUST0007,Call Center,neutral,2026-07-21,"Customer: I'd like to update my contact details on file.
+Agent: I've updated your details, is there anything else I can help with?"
+INT00018,CUST0008,Call Center,negative,2025-01-31,"Customer: This is the third time I'm calling about the same issue and nothing has been resolved.
+Agent: I've updated your details, is there anything else I can help with?"
+INT00019,CUST0009,Email,positive,2026-06-29,"Customer: I'm happy with the service so far and wanted to ask about upgrading my plan.
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00020,CUST0009,Call Center,neutral,2026-09-09,"Customer: Can you confirm when my policy renewal is due?
+Agent: I've noted this down and escalated it to the relevant team."
+INT00021,CUST0009,Call Center,positive,2026-06-06,"Customer: I just wanted to say the support team resolved my issue really quickly, thank you.
+Agent: I understand, let me look into this and get back to you."
+INT00022,CUST0010,Branch,negative,2026-06-20,"Customer: I feel like I'm being ignored every time I raise this issue.
+Agent: I've updated your details, is there anything else I can help with?"
+INT00023,CUST0011,Email,positive,2025-03-05,"Customer: I just wanted to say the support team resolved my issue really quickly, thank you.
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00024,CUST0011,Branch,neutral,2025-09-01,"Customer: I'd like to update my contact details on file.
+Agent: I've noted this down and escalated it to the relevant team."
+INT00025,CUST0011,Email,negative,2025-04-12,"Customer: I've been a customer for 3 years and I'm really unhappy with how my last claim was handled.
+Agent: Thank you for your patience, we'll resolve this within 48 hours."
+INT00026,CUST0011,Call Center,neutral,2026-01-30,"Customer: Hi, I wanted to check the status of my recent claim submission.
+Agent: I've noted this down and escalated it to the relevant team."
+INT00027,CUST0012,Branch,positive,2025-02-14,"Customer: I just wanted to say the support team resolved my issue really quickly, thank you.
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00028,CUST0012,Call Center,neutral,2025-08-17,"Customer: Can you confirm when my policy renewal is due?
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00029,CUST0012,Call Center,positive,2025-11-19,"Customer: I recommended your services to a friend and wanted to ask about referral benefits.
+Agent: Thank you for your patience, we'll resolve this within 48 hours."
+INT00030,CUST0012,Branch,neutral,2025-09-16,"Customer: Hi, I wanted to check the status of my recent claim submission.
+Agent: I've noted this down and escalated it to the relevant team."
+INT00031,CUST0013,Call Center,positive,2026-08-22,"Customer: I recommended your services to a friend and wanted to ask about referral benefits.
+Agent: Thank you for your patience, we'll resolve this within 48 hours."
+INT00032,CUST0013,Call Center,neutral,2026-05-12,"Customer: Can you confirm when my policy renewal is due?
+Agent: I understand, let me look into this and get back to you."
+INT00033,CUST0013,Branch,neutral,2026-01-02,"Customer: Can you confirm when my policy renewal is due?
+Agent: I understand, let me look into this and get back to you."
+INT00034,CUST0013,Branch,positive,2025-10-25,"Customer: My claim was approved fast and I wanted to say I appreciated that.
+Agent: Thank you for your patience, we'll resolve this within 48 hours."
+INT00035,CUST0014,Branch,neutral,2026-01-30,"Customer: I have a question about what my policy actually covers.
+Agent: I understand, let me look into this and get back to you."
+INT00036,CUST0015,Email,neutral,2025-12-26,"Customer: Can you confirm when my policy renewal is due?
+Agent: I've updated your details, is there anything else I can help with?"
+INT00037,CUST0016,Call Center,neutral,2025-12-19,"Customer: I have a question about what my policy actually covers.
+Agent: I understand, let me look into this and get back to you."
+INT00038,CUST0016,Branch,neutral,2025-01-26,"Customer: Can you confirm when my policy renewal is due?
+Agent: I've noted this down and escalated it to the relevant team."
+INT00039,CUST0017,Email,neutral,2025-10-04,"Customer: Can you confirm when my policy renewal is due?
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00040,CUST0017,Call Center,neutral,2025-09-03,"Customer: I'd like to update my contact details on file.
+Agent: Thank you for your patience, we'll resolve this within 48 hours."
+INT00041,CUST0018,Email,neutral,2026-01-21,"Customer: Just calling to confirm my last payment went through.
+Agent: I've noted this down and escalated it to the relevant team."
+INT00042,CUST0018,Email,negative,2026-05-03,"Customer: This is the third time I'm calling about the same issue and nothing has been resolved.
+Agent: I've noted this down and escalated it to the relevant team."
+INT00043,CUST0019,Email,positive,2025-09-25,"Customer: I recommended your services to a friend and wanted to ask about referral benefits.
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00044,CUST0019,Call Center,positive,2026-07-02,"Customer: I recommended your services to a friend and wanted to ask about referral benefits.
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00045,CUST0019,Call Center,positive,2025-05-09,"Customer: My claim was approved fast and I wanted to say I appreciated that.
+Agent: I understand, let me look into this and get back to you."
+INT00046,CUST0019,Email,positive,2025-10-04,"Customer: I recommended your services to a friend and wanted to ask about referral benefits.
+Agent: I understand, let me look into this and get back to you."
+INT00047,CUST0020,Email,neutral,2026-02-04,"Customer: Hi, I wanted to check the status of my recent claim submission.
+Agent: I've noted this down and escalated it to the relevant team."
+INT00048,CUST0020,Branch,positive,2025-08-26,"Customer: I'm happy with the service so far and wanted to ask about upgrading my plan.
+Agent: I understand, let me look into this and get back to you."
+INT00049,CUST0021,Email,positive,2026-01-06,"Customer: Everything has been smooth with my policy, just checking on a few details.
+Agent: I've noted this down and escalated it to the relevant team."
+INT00050,CUST0022,Call Center,neutral,2025-04-01,"Customer: I'd like to update my contact details on file.
+Agent: I've noted this down and escalated it to the relevant team."
+INT00051,CUST0023,Branch,neutral,2026-02-18,"Customer: Can you confirm when my policy renewal is due?
+Agent: Thank you for your patience, we'll resolve this within 48 hours."
+INT00052,CUST0023,Email,neutral,2026-01-11,"Customer: I'd like to update my contact details on file.
+Agent: I've updated your details, is there anything else I can help with?"
+INT00053,CUST0023,Call Center,negative,2026-04-19,"Customer: I feel like I'm being ignored every time I raise this issue.
+Agent: I've updated your details, is there anything else I can help with?"
+INT00054,CUST0023,Call Center,neutral,2025-04-11,"Customer: I'd like to update my contact details on file.
+Agent: I understand, let me look into this and get back to you."
+INT00055,CUST0024,Email,neutral,2025-08-13,"Customer: Hi, I wanted to check the status of my recent claim submission.
+Agent: I've updated your details, is there anything else I can help with?"
+INT00056,CUST0024,Branch,negative,2025-06-15,"Customer: This is the third time I'm calling about the same issue and nothing has been resolved.
+Agent: Thank you for your patience, we'll resolve this within 48 hours."
+INT00057,CUST0024,Email,negative,2025-02-10,"Customer: I want to understand why my premium went up without any notice.
+Agent: I've noted this down and escalated it to the relevant team."
+INT00058,CUST0025,Branch,positive,2026-06-18,"Customer: I recommended your services to a friend and wanted to ask about referral benefits.
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00059,CUST0025,Call Center,neutral,2025-01-01,"Customer: I'd like to update my contact details on file.
+Agent: I understand, let me look into this and get back to you."
+INT00060,CUST0026,Call Center,positive,2025-04-24,"Customer: Everything has been smooth with my policy, just checking on a few details.
+Agent: I've noted this down and escalated it to the relevant team."
+INT00061,CUST0027,Branch,positive,2025-03-30,"Customer: I recommended your services to a friend and wanted to ask about referral benefits.
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00062,CUST0027,Email,positive,2025-10-15,"Customer: I just wanted to say the support team resolved my issue really quickly, thank you.
+Agent: Thank you for your patience, we'll resolve this within 48 hours."
+INT00063,CUST0027,Branch,positive,2026-03-11,"Customer: Everything has been smooth with my policy, just checking on a few details.
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00064,CUST0028,Branch,positive,2025-07-30,"Customer: My claim was approved fast and I wanted to say I appreciated that.
+Agent: I've noted this down and escalated it to the relevant team."
+INT00065,CUST0028,Call Center,neutral,2025-07-13,"Customer: Just calling to confirm my last payment went through.
+Agent: Thank you for your patience, we'll resolve this within 48 hours."
+INT00066,CUST0028,Email,neutral,2025-06-17,"Customer: Can you confirm when my policy renewal is due?
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00067,CUST0028,Call Center,neutral,2025-03-02,"Customer: I'd like to update my contact details on file.
+Agent: Thank you for your patience, we'll resolve this within 48 hours."
+INT00068,CUST0029,Call Center,neutral,2025-11-15,"Customer: Can you confirm when my policy renewal is due?
+Agent: I've updated your details, is there anything else I can help with?"
+INT00069,CUST0029,Email,positive,2025-09-01,"Customer: I'm happy with the service so far and wanted to ask about upgrading my plan.
+Agent: I understand, let me look into this and get back to you."
+INT00070,CUST0029,Call Center,positive,2026-04-01,"Customer: Everything has been smooth with my policy, just checking on a few details.
+Agent: Thank you for your patience, we'll resolve this within 48 hours."
+INT00071,CUST0029,Email,neutral,2025-05-26,"Customer: Just calling to confirm my last payment went through.
+Agent: I've noted this down and escalated it to the relevant team."
+INT00072,CUST0030,Email,positive,2025-05-01,"Customer: I recommended your services to a friend and wanted to ask about referral benefits.
+Agent: I've noted this down and escalated it to the relevant team."
+INT00073,CUST0030,Email,positive,2025-06-08,"Customer: I recommended your services to a friend and wanted to ask about referral benefits.
+Agent: I've updated your details, is there anything else I can help with?"
+INT00074,CUST0030,Email,positive,2025-04-28,"Customer: Everything has been smooth with my policy, just checking on a few details.
+Agent: I understand, let me look into this and get back to you."
+INT00075,CUST0031,Call Center,negative,2025-02-14,"Customer: I want to understand why my premium went up without any notice.
+Agent: Thank you for your patience, we'll resolve this within 48 hours."
+INT00076,CUST0031,Branch,negative,2025-11-13,"Customer: I've been a customer for 5 years and I'm really unhappy with how my last claim was handled.
+Agent: I've noted this down and escalated it to the relevant team."
+INT00077,CUST0031,Email,negative,2026-04-25,"Customer: I want to understand why my premium went up without any notice.
+Agent: Thank you for your patience, we'll resolve this within 48 hours."
+INT00078,CUST0032,Call Center,positive,2025-02-16,"Customer: I recommended your services to a friend and wanted to ask about referral benefits.
+Agent: I've updated your details, is there anything else I can help with?"
+INT00079,CUST0032,Email,neutral,2025-12-06,"Customer: Just calling to confirm my last payment went through.
+Agent: Thank you for your patience, we'll resolve this within 48 hours."
+INT00080,CUST0033,Branch,negative,2026-03-21,"Customer: This is the third time I'm calling about the same issue and nothing has been resolved.
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00081,CUST0034,Email,negative,2025-04-04,"Customer: I want to understand why my premium went up without any notice.
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00082,CUST0034,Email,positive,2025-09-15,"Customer: I'm happy with the service so far and wanted to ask about upgrading my plan.
+Agent: I understand, let me look into this and get back to you."
+INT00083,CUST0034,Call Center,negative,2025-01-29,"Customer: I feel like I'm being ignored every time I raise this issue.
+Agent: I've updated your details, is there anything else I can help with?"
+INT00084,CUST0035,Email,negative,2025-07-10,"Customer: I'm seriously considering switching providers after this experience.
+Agent: I've noted this down and escalated it to the relevant team."
+INT00085,CUST0035,Email,negative,2025-11-14,"Customer: I'm seriously considering switching providers after this experience.
+Agent: Thank you for your patience, we'll resolve this within 48 hours."
+INT00086,CUST0036,Branch,negative,2025-12-31,"Customer: This is the third time I'm calling about the same issue and nothing has been resolved.
+Agent: Thank you for your patience, we'll resolve this within 48 hours."
+INT00087,CUST0036,Branch,negative,2026-01-14,"Customer: This is the third time I'm calling about the same issue and nothing has been resolved.
+Agent: I understand, let me look into this and get back to you."
+INT00088,CUST0036,Email,negative,2026-08-04,"Customer: I feel like I'm being ignored every time I raise this issue.
+Agent: I've updated your details, is there anything else I can help with?"
+INT00089,CUST0036,Branch,neutral,2025-08-10,"Customer: I have a question about what my policy actually covers.
+Agent: I've updated your details, is there anything else I can help with?"
+INT00090,CUST0037,Email,positive,2026-09-10,"Customer: I just wanted to say the support team resolved my issue really quickly, thank you.
+Agent: I've noted this down and escalated it to the relevant team."
+INT00091,CUST0037,Call Center,positive,2025-06-17,"Customer: I recommended your services to a friend and wanted to ask about referral benefits.
+Agent: I've updated your details, is there anything else I can help with?"
+INT00092,CUST0038,Branch,positive,2026-03-27,"Customer: I'm happy with the service so far and wanted to ask about upgrading my plan.
+Agent: I've noted this down and escalated it to the relevant team."
+INT00093,CUST0039,Email,negative,2026-09-18,"Customer: The service I received at the branch was extremely disappointing.
+Agent: I've noted this down and escalated it to the relevant team."
+INT00094,CUST0039,Email,neutral,2025-02-26,"Customer: I have a question about what my policy actually covers.
+Agent: Thank you for your patience, we'll resolve this within 48 hours."
+INT00095,CUST0039,Email,negative,2025-01-10,"Customer: I feel like I'm being ignored every time I raise this issue.
+Agent: I've noted this down and escalated it to the relevant team."
+INT00096,CUST0040,Branch,neutral,2025-01-05,"Customer: Just calling to confirm my last payment went through.
+Agent: Thank you for your patience, we'll resolve this within 48 hours."
+INT00097,CUST0040,Call Center,positive,2026-04-26,"Customer: My claim was approved fast and I wanted to say I appreciated that.
+Agent: Thank you for your patience, we'll resolve this within 48 hours."
+INT00098,CUST0041,Email,neutral,2026-07-02,"Customer: Can you confirm when my policy renewal is due?
+Agent: I've updated your details, is there anything else I can help with?"
+INT00099,CUST0041,Call Center,positive,2025-03-25,"Customer: Everything has been smooth with my policy, just checking on a few details.
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00100,CUST0041,Email,positive,2026-08-02,"Customer: I recommended your services to a friend and wanted to ask about referral benefits.
+Agent: Thank you for your patience, we'll resolve this within 48 hours."
+INT00101,CUST0041,Branch,neutral,2025-05-21,"Customer: I'd like to update my contact details on file.
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00102,CUST0042,Email,neutral,2025-08-16,"Customer: I have a question about what my policy actually covers.
+Agent: I understand, let me look into this and get back to you."
+INT00103,CUST0043,Email,positive,2026-01-16,"Customer: My claim was approved fast and I wanted to say I appreciated that.
+Agent: I've updated your details, is there anything else I can help with?"
+INT00104,CUST0043,Email,neutral,2025-09-04,"Customer: I have a question about what my policy actually covers.
+Agent: I've updated your details, is there anything else I can help with?"
+INT00105,CUST0044,Call Center,negative,2025-07-04,"Customer: I'm seriously considering switching providers after this experience.
+Agent: I understand, let me look into this and get back to you."
+INT00106,CUST0044,Email,negative,2025-09-17,"Customer: I've been a customer for 6 years and I'm really unhappy with how my last claim was handled.
+Agent: I've noted this down and escalated it to the relevant team."
+INT00107,CUST0044,Email,negative,2025-09-15,"Customer: The service I received at the branch was extremely disappointing.
+Agent: I've noted this down and escalated it to the relevant team."
+INT00108,CUST0045,Email,neutral,2026-08-10,"Customer: Hi, I wanted to check the status of my recent claim submission.
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00109,CUST0045,Call Center,positive,2026-08-04,"Customer: I recommended your services to a friend and wanted to ask about referral benefits.
+Agent: I understand, let me look into this and get back to you."
+INT00110,CUST0045,Email,positive,2025-05-18,"Customer: My claim was approved fast and I wanted to say I appreciated that.
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00111,CUST0045,Email,positive,2025-04-28,"Customer: My claim was approved fast and I wanted to say I appreciated that.
+Agent: I understand, let me look into this and get back to you."
+INT00112,CUST0046,Email,positive,2026-02-06,"Customer: I'm happy with the service so far and wanted to ask about upgrading my plan.
+Agent: I've noted this down and escalated it to the relevant team."
+INT00113,CUST0046,Call Center,positive,2025-04-06,"Customer: Everything has been smooth with my policy, just checking on a few details.
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00114,CUST0046,Call Center,negative,2025-08-31,"Customer: I want to understand why my premium went up without any notice.
+Agent: I understand, let me look into this and get back to you."
+INT00115,CUST0046,Call Center,negative,2026-09-01,"Customer: The service I received at the branch was extremely disappointing.
+Agent: Thank you for your patience, we'll resolve this within 48 hours."
+INT00116,CUST0047,Call Center,positive,2026-03-13,"Customer: My claim was approved fast and I wanted to say I appreciated that.
+Agent: I've noted this down and escalated it to the relevant team."
+INT00117,CUST0048,Call Center,neutral,2025-12-30,"Customer: I'd like to update my contact details on file.
+Agent: Thank you for your patience, we'll resolve this within 48 hours."
+INT00118,CUST0049,Call Center,positive,2025-05-06,"Customer: Everything has been smooth with my policy, just checking on a few details.
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00119,CUST0050,Email,positive,2025-02-14,"Customer: Everything has been smooth with my policy, just checking on a few details.
+Agent: I understand, let me look into this and get back to you."
+INT00120,CUST0050,Email,neutral,2025-12-02,"Customer: Hi, I wanted to check the status of my recent claim submission.
+Agent: I understand, let me look into this and get back to you."
+INT00121,CUST0050,Branch,positive,2025-09-06,"Customer: Everything has been smooth with my policy, just checking on a few details.
+Agent: I've noted this down and escalated it to the relevant team."
+INT00122,CUST0051,Branch,negative,2026-08-19,"Customer: I've been a customer for 3 years and I'm really unhappy with how my last claim was handled.
+Agent: I understand, let me look into this and get back to you."
+INT00123,CUST0051,Branch,neutral,2025-03-17,"Customer: Can you confirm when my policy renewal is due?
+Agent: I've noted this down and escalated it to the relevant team."
+INT00124,CUST0051,Email,positive,2025-10-24,"Customer: I recommended your services to a friend and wanted to ask about referral benefits.
+Agent: I've noted this down and escalated it to the relevant team."
+INT00125,CUST0051,Email,positive,2025-09-14,"Customer: Everything has been smooth with my policy, just checking on a few details.
+Agent: I've updated your details, is there anything else I can help with?"
+INT00126,CUST0052,Branch,negative,2025-06-04,"Customer: I'm seriously considering switching providers after this experience.
+Agent: I've updated your details, is there anything else I can help with?"
+INT00127,CUST0053,Call Center,positive,2025-02-06,"Customer: I'm happy with the service so far and wanted to ask about upgrading my plan.
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00128,CUST0054,Email,positive,2025-06-12,"Customer: I recommended your services to a friend and wanted to ask about referral benefits.
+Agent: I've updated your details, is there anything else I can help with?"
+INT00129,CUST0054,Email,neutral,2026-09-18,"Customer: Hi, I wanted to check the status of my recent claim submission.
+Agent: Thank you for your patience, we'll resolve this within 48 hours."
+INT00130,CUST0054,Branch,neutral,2025-08-10,"Customer: Can you confirm when my policy renewal is due?
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00131,CUST0054,Call Center,positive,2025-08-05,"Customer: Everything has been smooth with my policy, just checking on a few details.
+Agent: I've updated your details, is there anything else I can help with?"
+INT00132,CUST0055,Branch,positive,2026-02-02,"Customer: Everything has been smooth with my policy, just checking on a few details.
+Agent: I understand, let me look into this and get back to you."
+INT00133,CUST0055,Branch,neutral,2026-05-11,"Customer: Can you confirm when my policy renewal is due?
+Agent: I understand, let me look into this and get back to you."
+INT00134,CUST0055,Call Center,neutral,2026-09-16,"Customer: Can you confirm when my policy renewal is due?
+Agent: I've noted this down and escalated it to the relevant team."
+INT00135,CUST0056,Email,neutral,2025-03-07,"Customer: I'd like to update my contact details on file.
+Agent: Thank you for your patience, we'll resolve this within 48 hours."
+INT00136,CUST0056,Email,positive,2026-06-25,"Customer: I'm happy with the service so far and wanted to ask about upgrading my plan.
+Agent: I understand, let me look into this and get back to you."
+INT00137,CUST0056,Call Center,positive,2025-04-08,"Customer: I recommended your services to a friend and wanted to ask about referral benefits.
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00138,CUST0057,Call Center,negative,2025-10-16,"Customer: I feel like I'm being ignored every time I raise this issue.
+Agent: I've noted this down and escalated it to the relevant team."
+INT00139,CUST0058,Email,neutral,2025-12-16,"Customer: I'd like to update my contact details on file.
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00140,CUST0059,Email,neutral,2026-07-18,"Customer: I have a question about what my policy actually covers.
+Agent: Thank you for your patience, we'll resolve this within 48 hours."
+INT00141,CUST0059,Email,negative,2025-12-12,"Customer: I want to understand why my premium went up without any notice.
+Agent: I've updated your details, is there anything else I can help with?"
+INT00142,CUST0060,Branch,positive,2025-08-29,"Customer: I'm happy with the service so far and wanted to ask about upgrading my plan.
+Agent: I've noted this down and escalated it to the relevant team."
+INT00143,CUST0060,Branch,neutral,2026-04-10,"Customer: I have a question about what my policy actually covers.
+Agent: I've updated your details, is there anything else I can help with?"
+INT00144,CUST0060,Call Center,positive,2025-11-06,"Customer: My claim was approved fast and I wanted to say I appreciated that.
+Agent: I understand, let me look into this and get back to you."
+INT00145,CUST0061,Branch,neutral,2025-11-12,"Customer: Just calling to confirm my last payment went through.
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00146,CUST0061,Call Center,positive,2025-12-15,"Customer: I'm happy with the service so far and wanted to ask about upgrading my plan.
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00147,CUST0062,Email,negative,2025-11-08,"Customer: I want to understand why my premium went up without any notice.
+Agent: I've updated your details, is there anything else I can help with?"
+INT00148,CUST0063,Email,positive,2026-03-15,"Customer: I just wanted to say the support team resolved my issue really quickly, thank you.
+Agent: I've updated your details, is there anything else I can help with?"
+INT00149,CUST0063,Branch,neutral,2025-06-29,"Customer: I'd like to update my contact details on file.
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00150,CUST0063,Email,negative,2025-06-18,"Customer: I want to understand why my premium went up without any notice.
+Agent: I've noted this down and escalated it to the relevant team."
+INT00151,CUST0064,Branch,negative,2026-02-14,"Customer: This is the third time I'm calling about the same issue and nothing has been resolved.
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00152,CUST0065,Call Center,positive,2025-04-12,"Customer: I'm happy with the service so far and wanted to ask about upgrading my plan.
+Agent: I understand, let me look into this and get back to you."
+INT00153,CUST0065,Call Center,positive,2026-09-08,"Customer: I just wanted to say the support team resolved my issue really quickly, thank you.
+Agent: I understand, let me look into this and get back to you."
+INT00154,CUST0065,Branch,positive,2026-08-13,"Customer: I'm happy with the service so far and wanted to ask about upgrading my plan.
+Agent: I understand, let me look into this and get back to you."
+INT00155,CUST0066,Email,neutral,2025-01-16,"Customer: I'd like to update my contact details on file.
+Agent: I understand, let me look into this and get back to you."
+INT00156,CUST0066,Email,neutral,2025-12-01,"Customer: Hi, I wanted to check the status of my recent claim submission.
+Agent: I've updated your details, is there anything else I can help with?"
+INT00157,CUST0067,Call Center,positive,2025-12-12,"Customer: I just wanted to say the support team resolved my issue really quickly, thank you.
+Agent: I've updated your details, is there anything else I can help with?"
+INT00158,CUST0067,Email,positive,2025-03-31,"Customer: My claim was approved fast and I wanted to say I appreciated that.
+Agent: Thank you for your patience, we'll resolve this within 48 hours."
+INT00159,CUST0067,Branch,positive,2026-09-05,"Customer: Everything has been smooth with my policy, just checking on a few details.
+Agent: I've updated your details, is there anything else I can help with?"
+INT00160,CUST0067,Branch,positive,2025-01-27,"Customer: My claim was approved fast and I wanted to say I appreciated that.
+Agent: Thank you for your patience, we'll resolve this within 48 hours."
+INT00161,CUST0068,Call Center,neutral,2025-12-04,"Customer: Hi, I wanted to check the status of my recent claim submission.
+Agent: I understand, let me look into this and get back to you."
+INT00162,CUST0069,Call Center,neutral,2026-06-27,"Customer: I'd like to update my contact details on file.
+Agent: Thank you for your patience, we'll resolve this within 48 hours."
+INT00163,CUST0069,Email,neutral,2026-07-06,"Customer: Just calling to confirm my last payment went through.
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00164,CUST0070,Email,positive,2026-09-09,"Customer: Everything has been smooth with my policy, just checking on a few details.
+Agent: I've noted this down and escalated it to the relevant team."
+INT00165,CUST0070,Email,positive,2025-09-22,"Customer: I recommended your services to a friend and wanted to ask about referral benefits.
+Agent: I understand, let me look into this and get back to you."
+INT00166,CUST0071,Email,positive,2026-07-17,"Customer: I recommended your services to a friend and wanted to ask about referral benefits.
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00167,CUST0071,Email,neutral,2026-06-20,"Customer: I'd like to update my contact details on file.
+Agent: I've noted this down and escalated it to the relevant team."
+INT00168,CUST0071,Branch,neutral,2026-07-26,"Customer: Hi, I wanted to check the status of my recent claim submission.
+Agent: Thank you for your patience, we'll resolve this within 48 hours."
+INT00169,CUST0072,Branch,positive,2025-08-22,"Customer: I just wanted to say the support team resolved my issue really quickly, thank you.
+Agent: I understand, let me look into this and get back to you."
+INT00170,CUST0072,Call Center,negative,2025-05-06,"Customer: I'm seriously considering switching providers after this experience.
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00171,CUST0073,Branch,positive,2025-07-06,"Customer: My claim was approved fast and I wanted to say I appreciated that.
+Agent: Thank you for your patience, we'll resolve this within 48 hours."
+INT00172,CUST0073,Email,positive,2025-07-01,"Customer: I'm happy with the service so far and wanted to ask about upgrading my plan.
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00173,CUST0074,Branch,neutral,2025-09-06,"Customer: I have a question about what my policy actually covers.
+Agent: I've noted this down and escalated it to the relevant team."
+INT00174,CUST0075,Branch,neutral,2026-02-03,"Customer: Can you confirm when my policy renewal is due?
+Agent: Thank you for your patience, we'll resolve this within 48 hours."
+INT00175,CUST0075,Call Center,neutral,2025-01-28,"Customer: Hi, I wanted to check the status of my recent claim submission.
+Agent: I understand, let me look into this and get back to you."
+INT00176,CUST0075,Email,neutral,2026-02-16,"Customer: I'd like to update my contact details on file.
+Agent: I understand, let me look into this and get back to you."
+INT00177,CUST0076,Branch,negative,2026-02-24,"Customer: My claim got denied and nobody has properly explained why.
+Agent: I've noted this down and escalated it to the relevant team."
+INT00178,CUST0076,Branch,negative,2025-01-22,"Customer: My claim got denied and nobody has properly explained why.
+Agent: I've updated your details, is there anything else I can help with?"
+INT00179,CUST0077,Branch,neutral,2025-07-28,"Customer: I have a question about what my policy actually covers.
+Agent: Thank you for your patience, we'll resolve this within 48 hours."
+INT00180,CUST0077,Call Center,neutral,2026-05-26,"Customer: Just calling to confirm my last payment went through.
+Agent: I've noted this down and escalated it to the relevant team."
+INT00181,CUST0078,Call Center,positive,2025-10-01,"Customer: Everything has been smooth with my policy, just checking on a few details.
+Agent: Thank you for your patience, we'll resolve this within 48 hours."
+INT00182,CUST0078,Branch,neutral,2025-01-05,"Customer: Can you confirm when my policy renewal is due?
+Agent: I've noted this down and escalated it to the relevant team."
+INT00183,CUST0078,Email,neutral,2026-09-17,"Customer: I have a question about what my policy actually covers.
+Agent: I've noted this down and escalated it to the relevant team."
+INT00184,CUST0078,Email,positive,2025-08-03,"Customer: Everything has been smooth with my policy, just checking on a few details.
+Agent: I understand, let me look into this and get back to you."
+INT00185,CUST0079,Branch,neutral,2025-05-24,"Customer: Hi, I wanted to check the status of my recent claim submission.
+Agent: I understand, let me look into this and get back to you."
+INT00186,CUST0079,Call Center,neutral,2025-01-10,"Customer: I'd like to update my contact details on file.
+Agent: I've noted this down and escalated it to the relevant team."
+INT00187,CUST0079,Call Center,positive,2025-12-27,"Customer: I'm happy with the service so far and wanted to ask about upgrading my plan.
+Agent: I've updated your details, is there anything else I can help with?"
+INT00188,CUST0079,Branch,positive,2025-04-03,"Customer: Everything has been smooth with my policy, just checking on a few details.
+Agent: I've updated your details, is there anything else I can help with?"
+INT00189,CUST0080,Email,positive,2025-02-03,"Customer: I'm happy with the service so far and wanted to ask about upgrading my plan.
+Agent: I've noted this down and escalated it to the relevant team."
+INT00190,CUST0080,Call Center,positive,2025-01-16,"Customer: I'm happy with the service so far and wanted to ask about upgrading my plan.
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00191,CUST0080,Branch,positive,2026-08-12,"Customer: I just wanted to say the support team resolved my issue really quickly, thank you.
+Agent: I understand, let me look into this and get back to you."
+INT00192,CUST0081,Call Center,positive,2025-11-21,"Customer: I just wanted to say the support team resolved my issue really quickly, thank you.
+Agent: I understand, let me look into this and get back to you."
+INT00193,CUST0082,Branch,positive,2026-06-23,"Customer: I just wanted to say the support team resolved my issue really quickly, thank you.
+Agent: I've noted this down and escalated it to the relevant team."
+INT00194,CUST0082,Call Center,neutral,2026-07-08,"Customer: Just calling to confirm my last payment went through.
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00195,CUST0082,Branch,positive,2026-06-27,"Customer: I recommended your services to a friend and wanted to ask about referral benefits.
+Agent: I understand, let me look into this and get back to you."
+INT00196,CUST0082,Call Center,neutral,2025-08-09,"Customer: Hi, I wanted to check the status of my recent claim submission.
+Agent: Thank you for your patience, we'll resolve this within 48 hours."
+INT00197,CUST0083,Call Center,negative,2025-10-03,"Customer: I've been a customer for 12 years and I'm really unhappy with how my last claim was handled.
+Agent: I've noted this down and escalated it to the relevant team."
+INT00198,CUST0083,Email,positive,2026-02-22,"Customer: Everything has been smooth with my policy, just checking on a few details.
+Agent: Thank you for your patience, we'll resolve this within 48 hours."
+INT00199,CUST0084,Email,neutral,2025-02-12,"Customer: I have a question about what my policy actually covers.
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00200,CUST0085,Email,positive,2026-02-25,"Customer: Everything has been smooth with my policy, just checking on a few details.
+Agent: I've updated your details, is there anything else I can help with?"
+INT00201,CUST0085,Branch,neutral,2026-07-07,"Customer: I have a question about what my policy actually covers.
+Agent: I've noted this down and escalated it to the relevant team."
+INT00202,CUST0085,Branch,neutral,2026-01-30,"Customer: Can you confirm when my policy renewal is due?
+Agent: I understand, let me look into this and get back to you."
+INT00203,CUST0086,Email,positive,2025-09-18,"Customer: My claim was approved fast and I wanted to say I appreciated that.
+Agent: I've updated your details, is there anything else I can help with?"
+INT00204,CUST0086,Email,positive,2025-07-23,"Customer: I just wanted to say the support team resolved my issue really quickly, thank you.
+Agent: I understand, let me look into this and get back to you."
+INT00205,CUST0087,Branch,positive,2025-02-20,"Customer: My claim was approved fast and I wanted to say I appreciated that.
+Agent: Thank you for your patience, we'll resolve this within 48 hours."
+INT00206,CUST0088,Branch,positive,2025-11-20,"Customer: My claim was approved fast and I wanted to say I appreciated that.
+Agent: I understand, let me look into this and get back to you."
+INT00207,CUST0088,Email,neutral,2026-04-27,"Customer: I'd like to update my contact details on file.
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00208,CUST0088,Call Center,positive,2026-01-25,"Customer: I recommended your services to a friend and wanted to ask about referral benefits.
+Agent: Thank you for your patience, we'll resolve this within 48 hours."
+INT00209,CUST0088,Email,positive,2026-02-07,"Customer: Everything has been smooth with my policy, just checking on a few details.
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00210,CUST0089,Email,negative,2026-07-11,"Customer: This is the third time I'm calling about the same issue and nothing has been resolved.
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00211,CUST0089,Branch,positive,2025-09-26,"Customer: Everything has been smooth with my policy, just checking on a few details.
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00212,CUST0089,Call Center,positive,2026-08-08,"Customer: I'm happy with the service so far and wanted to ask about upgrading my plan.
+Agent: I understand, let me look into this and get back to you."
+INT00213,CUST0090,Call Center,positive,2026-06-25,"Customer: Everything has been smooth with my policy, just checking on a few details.
+Agent: I've noted this down and escalated it to the relevant team."
+INT00214,CUST0090,Email,positive,2025-06-06,"Customer: I recommended your services to a friend and wanted to ask about referral benefits.
+Agent: I've noted this down and escalated it to the relevant team."
+INT00215,CUST0090,Branch,positive,2025-02-14,"Customer: I recommended your services to a friend and wanted to ask about referral benefits.
+Agent: Thank you for your patience, we'll resolve this within 48 hours."
+INT00216,CUST0091,Email,negative,2025-06-07,"Customer: I want to understand why my premium went up without any notice.
+Agent: I've updated your details, is there anything else I can help with?"
+INT00217,CUST0091,Email,negative,2026-01-01,"Customer: I feel like I'm being ignored every time I raise this issue.
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00218,CUST0091,Email,negative,2026-04-09,"Customer: I've been a customer for 8 years and I'm really unhappy with how my last claim was handled.
+Agent: Thank you for your patience, we'll resolve this within 48 hours."
+INT00219,CUST0091,Email,negative,2026-04-02,"Customer: I've been a customer for 8 years and I'm really unhappy with how my last claim was handled.
+Agent: I've updated your details, is there anything else I can help with?"
+INT00220,CUST0092,Email,positive,2025-06-28,"Customer: I'm happy with the service so far and wanted to ask about upgrading my plan.
+Agent: I understand, let me look into this and get back to you."
+INT00221,CUST0092,Branch,positive,2026-01-11,"Customer: My claim was approved fast and I wanted to say I appreciated that.
+Agent: I've noted this down and escalated it to the relevant team."
+INT00222,CUST0092,Branch,positive,2026-06-20,"Customer: I recommended your services to a friend and wanted to ask about referral benefits.
+Agent: Thank you for your patience, we'll resolve this within 48 hours."
+INT00223,CUST0092,Call Center,negative,2025-07-25,"Customer: I'm seriously considering switching providers after this experience.
+Agent: Thank you for your patience, we'll resolve this within 48 hours."
+INT00224,CUST0093,Email,positive,2025-11-10,"Customer: My claim was approved fast and I wanted to say I appreciated that.
+Agent: Thank you for your patience, we'll resolve this within 48 hours."
+INT00225,CUST0094,Branch,negative,2025-09-29,"Customer: I've been a customer for 12 years and I'm really unhappy with how my last claim was handled.
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00226,CUST0094,Call Center,negative,2025-04-01,"Customer: This is the third time I'm calling about the same issue and nothing has been resolved.
+Agent: I've updated your details, is there anything else I can help with?"
+INT00227,CUST0094,Email,positive,2025-10-25,"Customer: Everything has been smooth with my policy, just checking on a few details.
+Agent: I understand, let me look into this and get back to you."
+INT00228,CUST0095,Email,negative,2025-02-12,"Customer: I feel like I'm being ignored every time I raise this issue.
+Agent: Thank you for your patience, we'll resolve this within 48 hours."
+INT00229,CUST0095,Email,positive,2026-03-18,"Customer: My claim was approved fast and I wanted to say I appreciated that.
+Agent: Thank you for your patience, we'll resolve this within 48 hours."
+INT00230,CUST0095,Email,negative,2026-01-30,"Customer: This is the third time I'm calling about the same issue and nothing has been resolved.
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00231,CUST0095,Branch,negative,2026-08-18,"Customer: I've been a customer for 3 years and I'm really unhappy with how my last claim was handled.
+Agent: I've noted this down and escalated it to the relevant team."
+INT00232,CUST0096,Branch,positive,2025-03-23,"Customer: I recommended your services to a friend and wanted to ask about referral benefits.
+Agent: I've updated your details, is there anything else I can help with?"
+INT00233,CUST0096,Email,positive,2026-05-24,"Customer: I just wanted to say the support team resolved my issue really quickly, thank you.
+Agent: I understand, let me look into this and get back to you."
+INT00234,CUST0096,Branch,positive,2026-04-19,"Customer: I recommended your services to a friend and wanted to ask about referral benefits.
+Agent: I've updated your details, is there anything else I can help with?"
+INT00235,CUST0097,Branch,neutral,2025-03-08,"Customer: I have a question about what my policy actually covers.
+Agent: I've updated your details, is there anything else I can help with?"
+INT00236,CUST0097,Email,neutral,2025-01-10,"Customer: Can you confirm when my policy renewal is due?
+Agent: I've noted this down and escalated it to the relevant team."
+INT00237,CUST0097,Email,neutral,2025-02-11,"Customer: I'd like to update my contact details on file.
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00238,CUST0097,Branch,neutral,2026-02-01,"Customer: Hi, I wanted to check the status of my recent claim submission.
+Agent: I understand, let me look into this and get back to you."
+INT00239,CUST0098,Call Center,neutral,2026-08-08,"Customer: Hi, I wanted to check the status of my recent claim submission.
+Agent: I've updated your details, is there anything else I can help with?"
+INT00240,CUST0098,Email,negative,2025-08-09,"Customer: The service I received at the branch was extremely disappointing.
+Agent: I understand, let me look into this and get back to you."
+INT00241,CUST0099,Call Center,neutral,2026-05-10,"Customer: Just calling to confirm my last payment went through.
+Agent: I've updated your details, is there anything else I can help with?"
+INT00242,CUST0099,Branch,neutral,2025-05-24,"Customer: Hi, I wanted to check the status of my recent claim submission.
+Agent: I've noted this down and escalated it to the relevant team."
+INT00243,CUST0100,Call Center,negative,2026-06-15,"Customer: This is the third time I'm calling about the same issue and nothing has been resolved.
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00244,CUST0100,Call Center,negative,2025-09-26,"Customer: I want to understand why my premium went up without any notice.
+Agent: I've updated your details, is there anything else I can help with?"
+INT00245,CUST0100,Email,negative,2025-11-02,"Customer: The service I received at the branch was extremely disappointing.
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00246,CUST0101,Branch,positive,2025-11-11,"Customer: I'm happy with the service so far and wanted to ask about upgrading my plan.
+Agent: I've updated your details, is there anything else I can help with?"
+INT00247,CUST0101,Branch,positive,2026-07-07,"Customer: Everything has been smooth with my policy, just checking on a few details.
+Agent: I've noted this down and escalated it to the relevant team."
+INT00248,CUST0101,Email,neutral,2025-08-01,"Customer: I'd like to update my contact details on file.
+Agent: I've updated your details, is there anything else I can help with?"
+INT00249,CUST0101,Call Center,positive,2026-08-21,"Customer: Everything has been smooth with my policy, just checking on a few details.
+Agent: Thank you for your patience, we'll resolve this within 48 hours."
+INT00250,CUST0102,Email,negative,2026-07-24,"Customer: I've been a customer for 12 years and I'm really unhappy with how my last claim was handled.
+Agent: Thank you for your patience, we'll resolve this within 48 hours."
+INT00251,CUST0102,Branch,negative,2025-03-11,"Customer: I'm seriously considering switching providers after this experience.
+Agent: Thank you for your patience, we'll resolve this within 48 hours."
+INT00252,CUST0103,Branch,neutral,2026-03-26,"Customer: Can you confirm when my policy renewal is due?
+Agent: I've noted this down and escalated it to the relevant team."
+INT00253,CUST0104,Call Center,neutral,2026-04-01,"Customer: Can you confirm when my policy renewal is due?
+Agent: I understand, let me look into this and get back to you."
+INT00254,CUST0104,Call Center,neutral,2025-05-08,"Customer: Can you confirm when my policy renewal is due?
+Agent: I understand, let me look into this and get back to you."
+INT00255,CUST0104,Call Center,positive,2026-05-25,"Customer: I just wanted to say the support team resolved my issue really quickly, thank you.
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00256,CUST0104,Branch,positive,2025-06-18,"Customer: I'm happy with the service so far and wanted to ask about upgrading my plan.
+Agent: Thank you for your patience, we'll resolve this within 48 hours."
+INT00257,CUST0105,Call Center,positive,2025-06-12,"Customer: I'm happy with the service so far and wanted to ask about upgrading my plan.
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00258,CUST0105,Call Center,neutral,2025-04-08,"Customer: Hi, I wanted to check the status of my recent claim submission.
+Agent: I understand, let me look into this and get back to you."
+INT00259,CUST0106,Email,neutral,2025-09-21,"Customer: I have a question about what my policy actually covers.
+Agent: I've updated your details, is there anything else I can help with?"
+INT00260,CUST0106,Email,neutral,2025-02-28,"Customer: Can you confirm when my policy renewal is due?
+Agent: I understand, let me look into this and get back to you."
+INT00261,CUST0106,Branch,neutral,2026-04-03,"Customer: Can you confirm when my policy renewal is due?
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00262,CUST0106,Email,positive,2026-07-29,"Customer: I'm happy with the service so far and wanted to ask about upgrading my plan.
+Agent: Thank you for your patience, we'll resolve this within 48 hours."
+INT00263,CUST0107,Call Center,neutral,2025-08-08,"Customer: Can you confirm when my policy renewal is due?
+Agent: I've updated your details, is there anything else I can help with?"
+INT00264,CUST0107,Branch,positive,2025-12-02,"Customer: I'm happy with the service so far and wanted to ask about upgrading my plan.
+Agent: Thank you for your patience, we'll resolve this within 48 hours."
+INT00265,CUST0107,Email,neutral,2026-07-13,"Customer: Hi, I wanted to check the status of my recent claim submission.
+Agent: I've noted this down and escalated it to the relevant team."
+INT00266,CUST0108,Branch,neutral,2025-07-08,"Customer: I'd like to update my contact details on file.
+Agent: I've updated your details, is there anything else I can help with?"
+INT00267,CUST0108,Call Center,neutral,2025-12-27,"Customer: Can you confirm when my policy renewal is due?
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00268,CUST0108,Branch,positive,2025-10-25,"Customer: Everything has been smooth with my policy, just checking on a few details.
+Agent: I understand, let me look into this and get back to you."
+INT00269,CUST0108,Call Center,positive,2026-05-24,"Customer: I'm happy with the service so far and wanted to ask about upgrading my plan.
+Agent: I've updated your details, is there anything else I can help with?"
+INT00270,CUST0109,Email,neutral,2026-09-05,"Customer: Just calling to confirm my last payment went through.
+Agent: I understand, let me look into this and get back to you."
+INT00271,CUST0109,Branch,negative,2026-04-27,"Customer: I feel like I'm being ignored every time I raise this issue.
+Agent: I've noted this down and escalated it to the relevant team."
+INT00272,CUST0109,Call Center,negative,2025-11-04,"Customer: I'm seriously considering switching providers after this experience.
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00273,CUST0110,Call Center,positive,2025-12-19,"Customer: I'm happy with the service so far and wanted to ask about upgrading my plan.
+Agent: Thank you for your patience, we'll resolve this within 48 hours."
+INT00274,CUST0111,Branch,neutral,2025-12-25,"Customer: I have a question about what my policy actually covers.
+Agent: I've noted this down and escalated it to the relevant team."
+INT00275,CUST0112,Call Center,positive,2025-07-03,"Customer: Everything has been smooth with my policy, just checking on a few details.
+Agent: I understand, let me look into this and get back to you."
+INT00276,CUST0112,Call Center,positive,2026-04-11,"Customer: My claim was approved fast and I wanted to say I appreciated that.
+Agent: I understand, let me look into this and get back to you."
+INT00277,CUST0112,Branch,positive,2026-09-02,"Customer: I recommended your services to a friend and wanted to ask about referral benefits.
+Agent: I understand, let me look into this and get back to you."
+INT00278,CUST0113,Call Center,negative,2026-08-17,"Customer: The service I received at the branch was extremely disappointing.
+Agent: I've noted this down and escalated it to the relevant team."
+INT00279,CUST0114,Call Center,positive,2025-12-28,"Customer: Everything has been smooth with my policy, just checking on a few details.
+Agent: I've noted this down and escalated it to the relevant team."
+INT00280,CUST0114,Branch,neutral,2025-04-03,"Customer: Hi, I wanted to check the status of my recent claim submission.
+Agent: I've updated your details, is there anything else I can help with?"
+INT00281,CUST0114,Call Center,neutral,2025-09-25,"Customer: Hi, I wanted to check the status of my recent claim submission.
+Agent: I've noted this down and escalated it to the relevant team."
+INT00282,CUST0114,Branch,neutral,2026-05-24,"Customer: Just calling to confirm my last payment went through.
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00283,CUST0115,Call Center,negative,2025-09-09,"Customer: I'm seriously considering switching providers after this experience.
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00284,CUST0116,Call Center,positive,2026-01-11,"Customer: Everything has been smooth with my policy, just checking on a few details.
+Agent: I've updated your details, is there anything else I can help with?"
+INT00285,CUST0117,Email,positive,2025-09-03,"Customer: My claim was approved fast and I wanted to say I appreciated that.
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00286,CUST0117,Call Center,neutral,2025-04-08,"Customer: Hi, I wanted to check the status of my recent claim submission.
+Agent: I understand, let me look into this and get back to you."
+INT00287,CUST0118,Call Center,positive,2026-08-08,"Customer: I'm happy with the service so far and wanted to ask about upgrading my plan.
+Agent: I understand, let me look into this and get back to you."
+INT00288,CUST0118,Branch,positive,2025-06-07,"Customer: I just wanted to say the support team resolved my issue really quickly, thank you.
+Agent: I've updated your details, is there anything else I can help with?"
+INT00289,CUST0118,Call Center,neutral,2026-06-15,"Customer: I'd like to update my contact details on file.
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00290,CUST0118,Email,positive,2025-03-28,"Customer: My claim was approved fast and I wanted to say I appreciated that.
+Agent: I've noted this down and escalated it to the relevant team."
+INT00291,CUST0119,Email,neutral,2026-06-10,"Customer: Hi, I wanted to check the status of my recent claim submission.
+Agent: I've noted this down and escalated it to the relevant team."
+INT00292,CUST0119,Call Center,negative,2025-12-12,"Customer: I've been a customer for 2 years and I'm really unhappy with how my last claim was handled.
+Agent: I've noted this down and escalated it to the relevant team."
+INT00293,CUST0120,Call Center,neutral,2025-12-17,"Customer: I have a question about what my policy actually covers.
+Agent: I appreciate you sharing that feedback, it's been logged."
+INT00294,CUST0120,Branch,positive,2025-01-12,"Customer: I recommended your services to a friend and wanted to ask about referral benefits.
+Agent: I've updated your details, is there anything else I can help with?"
