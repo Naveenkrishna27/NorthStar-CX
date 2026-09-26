@@ -7,7 +7,19 @@ a disciplined evidence record rather than a generic SaaS card grid.
 Run: streamlit run app.py
 """
 
+import os
 import streamlit as st
+
+# On Streamlit Cloud, credentials are set as "Secrets" (st.secrets), not a
+# local .env file. Bridge them into environment variables so the existing
+# os.getenv()-based connection code works unchanged in both environments.
+if hasattr(st, "secrets"):
+    for key in [
+        "SNOWFLAKE_ACCOUNT", "SNOWFLAKE_USER", "SNOWFLAKE_PAT",
+        "SNOWFLAKE_WAREHOUSE", "SNOWFLAKE_DATABASE", "SNOWFLAKE_SCHEMA",
+    ]:
+        if key in st.secrets and key not in os.environ:
+            os.environ[key] = st.secrets[key]
 
 from skills.customer_360 import get_connection, fetch_customer_data, build_prompt, call_cortex_complete
 from skills.churn_risk import churn_risk_score
